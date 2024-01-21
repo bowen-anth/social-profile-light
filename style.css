@@ -6,6 +6,9 @@
 
 body {
   font-family: system-ui, sans-serif;
+  background: linear-gradient(rgb(243, 243, 226), rgb(247, 247, 206));
+  min-height: 100vh;
+  min-height: 100lvh;
 }
 
 .card {
@@ -23,6 +26,7 @@ body {
   /* border: 1px solid gray; */
   gap: 1em;
   box-shadow: 0 3px 5px rgb(0 0 0 / 0.2);
+  background-color: white;
 }
 
 .text-container {
